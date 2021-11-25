@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\vinic\\.msvscode.hdinsight\\hdinsightJupyter\\Scripts\\python.exe",
+    "python.defaultInterpreterPath": "C:\\Users\\vinic\\.msvscode.hdinsight\\hdinsightJupyter\\Scripts\\python.exe",
+    "jupyter.jupyterLaunchTimeout": 240000
+}
