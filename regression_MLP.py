@@ -46,4 +46,3 @@ plt.grid(True)
 plt.gca().set_ylim(0, 1)
 plt.legend(['loss', 'val_loss'])
 plt.show()
-# %%
